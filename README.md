@@ -1,18 +1,25 @@
 # wiki-node-aws-s3-mongo-pug
 
 
-# 🚀 YYYYYYYYYYYYYYYYYYY 🚀
+# 🚀 Wiki.js | A modern and powerful wiki app built on Node.js 🚀
 
 https://github.com/coding-to-music/wiki-node-aws-s3-mongo-pug
 
 https://wiki-node-aws-s3-mongo-pug.vercel.app
 
+From / By https://github.com/requarks/wiki
 
-From / By 
+https://js.wiki/
 
 ## Environment variables:
 
 ```java
+process.env.node_env === 'development'
+process.env.DATABASE_URL 
+WIKI.ROOTPATH, process.env.CONFIG_FILE
+process.env.CURRENT_THEME
+process.env.UPGRADE_COMPANION_REF 
+process.env.UPGRADE_COMPANION
 ```
 
 ## GitHub
