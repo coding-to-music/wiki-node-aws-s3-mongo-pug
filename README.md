@@ -20,6 +20,10 @@ WIKI.ROOTPATH, process.env.CONFIG_FILE
 process.env.CURRENT_THEME
 process.env.UPGRADE_COMPANION_REF 
 process.env.UPGRADE_COMPANION
+process.env.HEROKU) {
+process.env.PORT || 80
+process.env.DB_PASS_FILE
+
 ```
 
 ## GitHub
