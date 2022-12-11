@@ -1,5 +1,5 @@
 {
-  "name": "wiki",
+  "name": "wiki-node-aws-s3-mongo-pug",
   "version": "2.0.0",
   "releaseDate": "2019-01-01T01:01:01.000Z",
   "description": "A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown",
@@ -8,6 +8,7 @@
   "scripts": {
     "start": "node server",
     "dev": "node dev",
+    "deploy": "git add . && git commit -m Build && git push",
     "build": "webpack --profile --config dev/webpack/webpack.prod.js",
     "watch": "webpack --config dev/webpack/webpack.dev.js",
     "test": "eslint --format codeframe --ext .js,.vue . && pug-lint server/views && jest",

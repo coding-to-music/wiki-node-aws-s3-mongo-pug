@@ -1,3 +1,32 @@
+# wiki-node-aws-s3-mongo-pug
+
+
+# 🚀 YYYYYYYYYYYYYYYYYYY 🚀
+
+https://github.com/coding-to-music/wiki-node-aws-s3-mongo-pug
+
+https://wiki-node-aws-s3-mongo-pug.vercel.app
+
+
+From / By 
+
+## Environment variables:
+
+```java
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/wiki-node-aws-s3-mongo-pug.git
+git push -u origin main
+```
+
 <div align="center">
 
 <img src="https://static.requarks.io/logo/wikijs-full.svg" alt="Wiki.js" width="600" />
