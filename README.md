@@ -16,7 +16,8 @@ https://js.wiki/
 ```java
 process.env.node_env === 'development'
 process.env.DATABASE_URL 
-WIKI.ROOTPATH, process.env.CONFIG_FILE
+WIKI.ROOTPATH, 
+process.env.CONFIG_FILE
 process.env.CURRENT_THEME
 process.env.UPGRADE_COMPANION_REF 
 process.env.UPGRADE_COMPANION
